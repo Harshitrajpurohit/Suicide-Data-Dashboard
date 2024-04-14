@@ -20,3 +20,19 @@ Join us in exploring global suicide trends and raising awareness about mental he
 ## **About the Author:**
 Harshit Rajpurohit is a student passionate about data analysis and visualization, dedicated to leveraging data for social impact and advocacy. Connect with Harshit on LinkedIn [https://www.linkedin.com/in/harshit-rajpurohit/].
 
+
+## **Dashboard Preview**
+
+![main](https://github.com/Harshitrajpurohit/Suicide-Data-Dashboard/assets/115687640/8ed8027b-7bf2-4a11-9fb5-1b668b66373e)
+
+
+## **Data Charts**
+
+![1](https://github.com/Harshitrajpurohit/Suicide-Data-Dashboard/assets/115687640/8b0e8d69-e7e8-452e-bc33-d52441a42a80)
+
+![2](https://github.com/Harshitrajpurohit/Suicide-Data-Dashboard/assets/115687640/c8da39af-62e0-492e-886a-44fc581a4648)
+
+![3](https://github.com/Harshitrajpurohit/Suicide-Data-Dashboard/assets/115687640/a7b9e3b9-f8a9-4c65-afe4-0850e2e1a6d2)
+
+![4](https://github.com/Harshitrajpurohit/Suicide-Data-Dashboard/assets/115687640/c21da022-1ffa-4e36-b859-f33aa98e2544)
+
