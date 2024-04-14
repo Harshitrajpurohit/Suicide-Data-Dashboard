@@ -18,7 +18,7 @@ Contributions to this project are welcome! Whether it's improving dashboard desi
 Join us in exploring global suicide trends and raising awareness about mental health issues. Together, we can make a difference in suicide prevention and mental health advocacy worldwide.
 
 ## **About the Author:**
-Harshit Rajpurohit is a student passionate about data analysis and visualization, dedicated to leveraging data for social impact and advocacy. Connect with Harshit on LinkedIn [https://www.linkedin.com/in/harshit-rajpurohit/].
+Harshit Rajpurohit is a student passionate about data analysis and visualization, dedicated to leveraging data for social impact and advocacy. Connect with Harshit on [LinkedIn](https://www.linkedin.com/in/harshit-rajpurohit/).
 
 
 ## **Dashboard Preview**
